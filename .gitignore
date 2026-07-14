@@ -1,0 +1,10 @@
+# 最优参数
+*.joblib
+
+# 训练数据
+np_a_normalized/
+*.npy
+*.xlsx
+
+# 虚拟环境
+.venv/
