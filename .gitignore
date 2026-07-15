@@ -1,5 +1,6 @@
 # 最优参数
 *.joblib
+*.pth
 
 # 训练数据
 np_a_normalized/
